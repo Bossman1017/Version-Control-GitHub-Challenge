@@ -1,0 +1,8 @@
+1. A Terminal in my words is a command prompt you use to enter data, and display data from without using the GUI.
+
+2.The difference between Git and GitHub is that Git is tool used to change source code, while GitHub is the website you use to connect and upload or download code to share with other users.
+
+3.GitHub is a repository, it allows your work to get out in front of the public. Moreover, it is one of the largest coding communities around, so using it can provide wide exposure for your project and for you. The more people you have to review your project, the more attention and use it is likely to attract.
+
+
+© 2020 GitHub, Inc.
